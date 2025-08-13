@@ -120,3 +120,9 @@ From the lobby, users move to the meeting room, where a circular or rectangular 
 
 - https://www.bilibili.com/video/BV1ea411E7uh/?spm_id_from=333.337.search-card.all.click&vd_source=502cd3318f26318e88d5865f0e71d2a7
 - https://support.zoom.com/hc/zh/article?id=zm_kb&sysparm_article=KB0061331
+
+##AI Usage Statement
+- During the development of this design concept, I utilized OpenAI's ChatGPT to assist in generating creative ideas, iterating designs, and formatting documents.
+Specifically: 
+Language support - Artificial intelligence assisted in rephrasing and polishing the English text to make it clearer and more understandable, while still preserving my original design intent. 
+Hereby I promise that all decisions regarding the final concept, visual design, sketching, and content are made by me. The output results of the artificial intelligence have undergone strict review, and only relevant parts have been incorporated into the project.
