@@ -94,7 +94,7 @@ From the lobby, users move to the meeting room, where a circular or rectangular 
 <img width="1206" height="909" alt="4fd0ccfe3abdbc366853320c2445295b" src="https://github.com/user-attachments/assets/50b1f91b-cff8-473b-831d-75c430268bec" />
 
 
-## Initial Testing Plan  
+## Initial Testing Plan (week 3—week 5) 
 
 **Interactions & Features to Test:**  
 - Lobby gestures to join/create meetings  
