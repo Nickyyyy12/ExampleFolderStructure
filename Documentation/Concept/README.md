@@ -1,4 +1,3 @@
-<img width="2746" height="1908" alt="e8523408326617a065273d218cdc9806" src="https://github.com/user-attachments/assets/7e30ec63-9f79-41b8-a064-d4d96d006739" /># XR Concept Documentation
 
 # DESIGN Concept  
 **Zhun Li – 47417957**
@@ -46,9 +45,9 @@ Prototypes were iterated and improved through feedback and self-reflection, such
 - Adding interactive personal screens for each participant  
 - Future ideas like spatial audio  
 
-<img width="2746" height="1908" alt="38158ede3a656d31d942d961105da013" src="https://github.com/user-attachments/assets/71f62ddb-a58e-489a-87a5-68490f8667f3" />
+<img width="1338" height="684" alt="62fc2c3f93bca64d365e5b318175a495" src="https://github.com/user-attachments/assets/0ea514ad-438d-46b5-8f22-32f823b9d831" />
+<img width="1104" height="777" alt="88a1442fb662f539616fa56eac10d24b" src="https://github.com/user-attachments/assets/bfc756a5-e808-4cbb-8f42-d1b0330644ab" />
 
-<img width="2746" height="1908" alt="e8523408326617a065273d218cdc9806" src="https://github.com/user-attachments/assets/bfda1932-012a-4f99-a753-f1b0f1d3c27b" />
 
 ## XR Concept Description  
 
