@@ -89,9 +89,10 @@ From the lobby, users move to the meeting room, where a circular or rectangular 
 - Spatial audio isolates voices between rooms for clear communication  
 
 *(Figure 3: Low-fidelity sketch of breakout room environment)*  
-<img width="1128" height="798" alt="62c9334294441bfc810a507b6defddc3" src="https://github.com/user-attachments/assets/3971ec2e-b373-4876-a7f5-aa862bccd437" />
+<img width="1128" height="798" alt="dd93a3264a0907af492dedf2fabb7f1e" src="https://github.com/user-attachments/assets/566c0850-eeef-428e-afcb-218ac5fb2526" />
 <img width="1482" height="833" alt="8bd5dc531f558ce417c0476f8d908b41" src="https://github.com/user-attachments/assets/654810da-0919-4510-875b-c4269c0db8ca" />
-<img width="1206" height="909" alt="4fd0ccfe3abdbc366853320c2445295b" src="https://github.com/user-attachments/assets/50b1f91b-cff8-473b-831d-75c430268bec" />
+<img width="1206" height="909" alt="97d4d54ec49f5185b450bf3527471e4e" src="https://github.com/user-attachments/assets/c9fe20ed-28fb-4d9b-9e0b-b804d7fbdecc" />
+
 
 
 ## Initial Testing Plan (week 3—week 5) 
